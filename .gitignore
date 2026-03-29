@@ -1,2 +1,9 @@
 .env
 env.bat
+venv
+.old
+build
+*.spec
+docs
+assets
+dist
